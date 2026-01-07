@@ -85,7 +85,7 @@
 
 - Improving fullstack architecture understanding
 - Ready to trade side projects for real ones
-- Learning by building real projects (like my Arkanoid-inspired game! 👀)
+- Learning by building real projects (like my [Arkanoid-inspired game](https://github.com/HugosGitStuff/arkanoid-clone-lotb)) 👀)
 
 ---
 
