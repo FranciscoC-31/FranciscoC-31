@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-- 🎂 **23 years old**
+- 🎂 **24 years old**
 - 🎓 Just finished a **Fullstack Programming Bootcamp**
 - 🧩 I enjoy understanding how things work from front to back
 - 🤝 Social, interactive, always up for teamwork
